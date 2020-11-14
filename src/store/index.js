@@ -7,7 +7,7 @@ const Swal = require('sweetalert2')
 
 Vue.use(Vuex)
 Vue.use(VueSweetalert2)
-const url = 'http://localhost:3000'
+const url = 'https://ecommerce-cms-ykp.herokuapp.com'
 
 export default new Vuex.Store({
   state: {
